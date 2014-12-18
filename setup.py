@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='rfgen',
     version='0.1.0',
-    author='Mika Hänninen',
+    author='Mika Hanninen',
     author_email='mika.hanninen@gmail.com',
     scripts=['rfgen.py'],
     download_url='https://github.com/robotframework/Generator/tarball/master',
